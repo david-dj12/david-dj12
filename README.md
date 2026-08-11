@@ -1,6 +1,6 @@
 # Hi there, I'm Davit Alaverdyan 👋
 
-I am an Embedded Systems and Robotics developer focused on hardware-software integration, automation, and edge intelligence. Since 2016, I have been actively developing projects within the Armath Engineering Laboratories ecosystem, building functional prototypes from scratch.
+I am an Embedded Systems and Robotics developer focused on hardware-software integration, automation, and edge intelligence. Since 2017, I have been actively developing projects within the Armath Engineering Laboratories ecosystem, building functional prototypes from scratch.
 
 ### 🛠️ Core Tech Stack
 
@@ -19,7 +19,7 @@ An open-source safety and monitoring system for 3D printers. It utilizes a Raspb
 A fully functional 3D printer built using repurposed components from old DVD drives. Designed the entire mechanical structure, implemented motion control, and handled electronics integration.
 
 #### 🌾 Modular IoT Smart Agriculture
-A conceptual modular framework for data-driven agriculture, focusing on sensor automation and scalable, low-power edge logic.
+A modular framework for data-driven agriculture, focusing on sensor automation and scalable, low-power edge logic.
 
 ---
 📬 **How to reach me:** laketile3d@gmail.com
