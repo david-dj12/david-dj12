@@ -7,7 +7,7 @@ I am an Embedded Systems and Robotics developer focused on hardware-software int
 - **Languages:** C, C++, Python, Bash
 - **Hardware & Platforms:** Arduino, ESP32, Raspberry Pi, Relays, Sensors (FSR, Motion, Environmental)
 - **Protocols & Interfaces:** UART, I2C, SPI, Serial Communication
-- **Tools & Environments:** Linux, Raspbian, ONNX Runtime, FreeCAD (3D Modeling)
+- **Tools & Environments:** Windows/Linux, ONNX Runtime, Fusion 360 (3D Modeling)
 - **Focus Areas:** Embedded AI, IoT Systems, Robotics Automation, Smart Agriculture
 
 ### 🚀 Featured Projects
